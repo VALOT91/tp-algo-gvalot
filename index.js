@@ -274,16 +274,17 @@
 
 //exo28 
 
-const jeu = () => {
+// const jeu = () => {
 
-  const a = Math.floor(Math.random()*5+1)
-  const b = Math.floor(Math.random()*5+1)
-  console.log(a,b)
-  if(a>b)
-      console.log("joueur1 a gagné")
-  else
-    console.log("joueur2 a gagné")
-}
-jeu()
+//   const a = Math.round(Math.random()*6)
+//   const b = Math.floor(Math.random()*5+1)
+//   console.log(a,b)
+//   if(a>b)
+//       console.log("joueur1 a gagné")
+//   else
+//     console.log("joueur2 a gagné")
+// }
+// jeu()
 
 
+// tp du 16/11/2021
